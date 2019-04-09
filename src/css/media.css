@@ -1,0 +1,44 @@
+@media (max-width: 600px) {
+  html {
+    /*font-size: 8px;*/
+  }
+  .content {
+    margin: 0 20px;
+  }
+  .logo img {
+    min-height: 100%;
+  }
+  /*.offer__orange{
+        font-size: 4.2rem;
+    }
+    .offer__text{
+        font-size: 2.7rem;
+    }
+    .offer__orange_large {
+        font-size: 5.8rem;
+    }*/
+  .form__flex {
+    flex-direction: column;
+  }
+  .form__input,
+  .form__select,
+  .form__btn {
+    width: 100%;
+    margin-bottom: 20px;
+    height: 60px;
+    /*font-size: 2rem;*/
+  }
+  .property {
+    flex-direction: column;
+  }
+  .property__iteam {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 485px) {
+  .timer {
+    display: none;
+  }
+}

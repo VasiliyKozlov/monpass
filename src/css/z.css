@@ -1,0 +1,30 @@
+
+.z {
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 80%;
+    padding-bottom: 90px;
+    background-image: url("../images/fon.jpg");
+}
+
+.z_1{
+    background-image: url("../images/1_4_01.jpg");
+}
+
+
+.z_2{
+    background-image: url("../images/1_5_fon_01.jpg");
+}
+
+.z_3{
+    background-image: url("../images/1_6_fon.jpg");
+}
+
+.z_4{
+    background-image: url("../images/1_7_fon.jpg");
+}
+
+.z_5{
+    background-image: url("../images/1_9_fon_01.jpg");
+}
